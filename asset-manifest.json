@@ -1,35 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.05a4db2c.css",
-    "main.js": "/static/js/main.9e645656.js",
-    "static/media/reporting.png": "/static/media/reporting.8e21c7236fdce41656ff.png",
-    "static/media/contacts.png": "/static/media/contacts.c146e72dfddda6397874.png",
-    "static/media/background-features.jpg": "/static/media/background-features.8ba630fe852a0cfc2c76.jpg",
-    "static/media/expenses.png": "/static/media/expenses.ec22dfc3499a3b313728.png",
-    "static/media/payroll.png": "/static/media/payroll.4a31cb5160ad799713e8.png",
-    "static/media/background-call-to-action.jpg": "/static/media/background-call-to-action.2d20904390abccc5771a.jpg",
-    "static/media/vat-returns.png": "/static/media/vat-returns.318c726e40e2ae31349b.png",
-    "static/media/profit-loss.png": "/static/media/profit-loss.76d5056c0118ce83c13a.png",
-    "static/media/inventory.png": "/static/media/inventory.f065fa70058ef182a927.png",
-    "static/media/background-faqs.jpg": "/static/media/background-faqs.503bf36a8ed95ddfdd25.jpg",
-    "static/media/avatar-4.png": "/static/media/avatar-4.16f6199d7dcf82b25442.png",
-    "static/media/avatar-1.png": "/static/media/avatar-1.71f1a1b8c24baac1ff63.png",
-    "static/media/avatar-5.png": "/static/media/avatar-5.40e916e164b8ca8b215c.png",
-    "static/media/avatar-2.png": "/static/media/avatar-2.7ebc2e2516d48be954e4.png",
-    "static/media/avatar-3.png": "/static/media/avatar-3.c99a6e14cda402fe933e.png",
+    "main.css": "/static/css/main.92eb0604.css",
+    "main.js": "/static/js/main.45aaff75.js",
     "static/media/background-auth.jpg": "/static/media/background-auth.c0f39c082837fea7675c.jpg",
-    "static/media/statamic.svg": "/static/media/statamic.e8d01f5234e0839cce6000a0c2d1f646.svg",
-    "static/media/statickit.svg": "/static/media/statickit.8d31af0ef54bdd5ddc66505859392591.svg",
-    "static/media/laravel.svg": "/static/media/laravel.838512329f04d53f9cfc21d28b5a783e.svg",
-    "static/media/transistor.svg": "/static/media/transistor.f10e2de3ec069e0890215d270215e499.svg",
-    "static/media/mirage.svg": "/static/media/mirage.53dd91daf2c826dae0303e77d37a741c.svg",
-    "static/media/tuple.svg": "/static/media/tuple.e4b81f6adfbf537090d64bed4dac02c4.svg",
     "index.html": "/index.html",
-    "main.05a4db2c.css.map": "/static/css/main.05a4db2c.css.map",
-    "main.9e645656.js.map": "/static/js/main.9e645656.js.map"
+    "main.92eb0604.css.map": "/static/css/main.92eb0604.css.map",
+    "main.45aaff75.js.map": "/static/js/main.45aaff75.js.map"
   },
   "entrypoints": [
-    "static/css/main.05a4db2c.css",
-    "static/js/main.9e645656.js"
+    "static/css/main.92eb0604.css",
+    "static/js/main.45aaff75.js"
   ]
 }
