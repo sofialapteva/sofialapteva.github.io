@@ -81,10 +81,10 @@ export function Header() {
                 <nav className="relative z-50 text-sm">
                     <ul className="flex items-center">
                         <li>
-                            <a href="#">
+                            <NavLink to='/'>
                                 <span className="sr-only">Home</span>
                                 <Logo className="px-10 h-10 w-auto" />
-                            </a>
+                            </NavLink>
                         </li>
                         <li className="ml-auto hidden md:block">
                             <NavLink className="rounded-lg py-1 px-2 text-slate-700 hover:bg-slate-100 hover:text-slate-900" to="/useful-links">
